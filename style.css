@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+#main_container{
+display: flex;
+align-items: center;
+flex-direction: column;
+border-radius: 10px;
+background-color: rgba(237, 173, 94, 0.647);
+height: 1000px;
+width: 90%;
+}
+header{
+    width: 700px;
+    background-color: rgb(119, 70, 164);
+    border-radius: 10px;
+    margin: 30px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
